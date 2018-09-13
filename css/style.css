@@ -1,4 +1,41 @@
-#name {
-    background: #0082de;
-    color: black;
+
+
+.border-bottom {
+    border-style: solid;
+}
+
+.navbar{
+    padding: 0rem;
+    background-color: white;
+}
+.card-title {
+    background-color: black;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70%;
+    line-height: 10%;
+    background-color: grey;
+}
+.mainfooter {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    height: 8%;
+    line-height: 20%;
+    background-color: #0082de;
+}
+
+body {
+    background-image: url(../images/leaves.png)
+}
+.navbar-brand {
+    color: white;
+}
+
+.image1 {
+    margin-right: 2rem;
+    margin-bottom: 1rem;
 }
